@@ -10,7 +10,7 @@ This project inspired from mas **Noval Agung**, you can see the original blog in
 # How to run
 1. Clone this project.
 ```
-
+git clone https://github.com/letenk/insert-millions-data-golang.git
 ```
 
 2. Installation library
